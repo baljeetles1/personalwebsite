@@ -1,0 +1,32 @@
+body{
+    /*colors*/
+    background-color: #222222;
+    color: lightblue;
+    
+    /*padding stuuuuffff*/
+    padding: 3%;
+    padding-left: 12%;
+    padding-right: 12%;
+    
+    word-wrap: break-word;
+}
+
+a{
+    color: lightgreen;
+}
+
+h1{
+    color: #00ffaa;
+}
+
+h2{
+    color: #449988;
+}
+
+ul{
+    line-height: 25px;
+}
+
+.headerlink{
+    color: #00ffaa;
+}
